@@ -6,4 +6,4 @@ Reversal of DebugView's usermode logger.
 Just run it and watch.
 
 ## Credits
-* [MattiWatti](https://github.com/Mattiwatti) for the `DBWIN` pointer
+* [Matti](https://github.com/Mattiwatti) for the `DBWIN` pointer
